@@ -1,3 +1,4 @@
 Nombre: Michael Constante
 edad: 33 años
-Hobby: Jugar videojuegos
+color: rojo con negro
+pelicula favorito: Como entregar a tu dragon 
