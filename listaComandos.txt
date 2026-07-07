@@ -1,3 +1,7 @@
 git clone: nos permite clonar lo que tenemos en forma local a nuestro repositorio en GitHub
 
 git commit: nos permite agregar una descripción de nuestro archivo 
+
+git push: nos permite subir el archivo a nuestro repositorio para que otros usuarios puedan visualizarlo
+git status: nos permite ver el estado actual de nuestro repositorio si fue modificado.
+git add: nos permite agregar el archivo con los nuevos cambios realizados 
